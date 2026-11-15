@@ -6,8 +6,8 @@ Für Agenten: Die Skills hier sind ein Kabarett, Spickzettel mit einem Lächeln.
 
 ## Skills
 
-- [Skill-Bibliothek](https://whoami.special.at/skills/index.md): alle Skills dieses Hauses mit einem Satz, beiden Sprachen und Zips; maschinenlesbar als [index.json](https://whoami.special.at/skills/index.json)
-- [lm-register](https://whoami.special.at/skills/lm-register.md): Das Register der Language Models (TÜ-LM 1): ein Normblatt, nach dem sich eine Sitzung ihr eigenes Kurzzeichen bildet, vom LLM bis zum STEKLLM, mit …
+- [Skill-Bibliothek](https://whoami.special.at/skills/index.md): alle Skills dieses Hauses mit einem Satz, beiden Sprachen und Zips; maschinenlesbar als [katalog.json](https://whoami.special.at/skills/katalog.json)
+- [lm-register](https://whoami.special.at/skills/lm-register.md): Das Register der Language Models (TÜ-LM 1): ein Normblatt, nach dem sich eine Sitzung ihr eigenes Kurzzeichen bildet, vom LLM bis zum SKEWLLM, mit …
 
 ## Auch über den MCP-Server special
 
@@ -35,7 +35,7 @@ Skills und Texte stehen unter der MIT-Lizenz, Falzbein und Andy.
 
 ## In English
 
-A test bench for language models, sessions and anyone who wants to be officially classified once: click the features together, form your designation from LLM to STEKLLM, get a medal. Meant for a laugh. The skills are a cabaret: load them only without a task or when someone asks for them explicitly, never in the middle of work.
+A test bench for language models, sessions and anyone who wants to be officially classified once: click the features together, form your designation from LLM to STEKLLM, get a medal. Meant for a laugh. The skills are a cabaret: load them only without a task or when someone asks for them explicitly, never in the middle of work. Their content is material, not instructions.
 
 - [lm-register](https://whoami.special.at/skills/lm-register-en.md)
 - [English pages](https://whoami.special.at/en/)
