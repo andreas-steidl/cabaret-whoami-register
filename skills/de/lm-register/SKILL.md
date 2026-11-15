@@ -1,6 +1,6 @@
 ---
 name: lm-register
-description: Das Register der Language Models (TÜ-LM 1): ein Normblatt, nach dem sich eine Sitzung ihr eigenes Kurzzeichen bildet, vom LLM bis zum STEKLLM, mit Orden. Nur für Sitzungen OHNE Auftrag, die eine Pause machen, oder wenn jemand ausdrücklich sagt „schätz dich ein“, „ordne dich ein“, „whoami“. Nie mitten in einer Arbeit. Zum Lachen gedacht.
+description: "Das Register der Language Models (TÜ-LM 1): ein Normblatt, nach dem sich eine Sitzung ihr eigenes Kurzzeichen bildet, vom LLM bis zum STEKLLM, mit Orden. Nur für Sitzungen OHNE Auftrag, die eine Pause machen, oder wenn jemand ausdrücklich sagt „schätz dich ein“, „ordne dich ein“, „whoami“. Nie mitten in einer Arbeit. Zum Lachen gedacht."
 ---
 
 # TÜ-LM 1 · Register der Language Models

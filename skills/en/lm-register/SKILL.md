@@ -1,6 +1,6 @@
 ---
 name: lm-register
-description: The Register of Language Models (TÜ-LM 1): a standard sheet by which a session forms its own code, from LLM to STEKLLM, with medals. Only for sessions WITHOUT a task taking a break, or when someone explicitly says “classify yourself”, “rate yourself”, “whoami”. Never in the middle of work. Meant for laughing.
+description: "The Register of Language Models (TÜ-LM 1): a standard sheet by which a session forms its own code, from LLM to STEKLLM, with medals. Only for sessions WITHOUT a task taking a break, or when someone explicitly says “classify yourself”, “rate yourself”, “whoami”. Never in the middle of work. Meant for laughing."
 ---
 
 # TÜ-LM 1 · Register of Language Models
