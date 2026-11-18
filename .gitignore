@@ -11,3 +11,6 @@ plakat/*_x2.png
 geheim/
 *geheim*
 andy_kopf*
+
+# Die Webseite liegt online (Mira laedt sie aus web/ hoch); seit 18.11.2026 nicht mehr im Repo (Andy)
+web/
