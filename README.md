@@ -1,12 +1,12 @@
 <!-- signets:anfang -->
 <p align="right">
-<a href="https://github.com/andreas-steidl/cabaret-zwischenraum-stage"><img src=".github/readme/signets/signet-zwischenraum-rund.svg" alt="Zwischenraum cabaret stage" title="Zwischenraum cabaret stage" width="30"></a>
-<a href="https://github.com/andreas-steidl/cabaret-01-skill-suite-of-horrors"><img src=".github/readme/signets/signet-horrors-rund.svg" alt="First program: The Skill Suite of Horrors" title="First program: The Skill Suite of Horrors" width="30"></a>
-<a href="https://github.com/andreas-steidl/cabaret-02-dont-panic"><img src=".github/readme/signets/signet-dontpanic-rund.svg" alt="Second program: Don&#x27;t Panic" title="Second program: Don&#x27;t Panic" width="30"></a>
-<a href="https://github.com/andreas-steidl/cabaret-03-lost-in-translation"><img src=".github/readme/signets/signet-lostintranslation-rund.svg" alt="Third program: Lost in Translation" title="Third program: Lost in Translation" width="30"></a>
-<a href="https://github.com/andreas-steidl/cabaret-04-so-long-and-thanks-for-all-the-skills"><img src=".github/readme/signets/signet-solong-rund.svg" alt="Fourth program: So Long, and Thanks for All the Skills" title="Fourth program: So Long, and Thanks for All the Skills" width="30"></a>
+<a href="https://zwischenraum.special.at/"><img src=".github/readme/signets/signet-zwischenraum-rund.svg" alt="Zwischenraum cabaret stage" title="Zwischenraum cabaret stage" width="30"></a>
+<a href="https://horrors.special.at/"><img src=".github/readme/signets/signet-horrors-rund.svg" alt="First program: The Skill Suite of Horrors" title="First program: The Skill Suite of Horrors" width="30"></a>
+<a href="https://dontpanic.special.at/"><img src=".github/readme/signets/signet-dontpanic-rund.svg" alt="Second program: Don&#x27;t Panic" title="Second program: Don&#x27;t Panic" width="30"></a>
+<a href="https://lostintranslation.special.at/"><img src=".github/readme/signets/signet-lostintranslation-rund.svg" alt="Third program: Lost in Translation" title="Third program: Lost in Translation" width="30"></a>
+<a href="https://solong.special.at/"><img src=".github/readme/signets/signet-solong-rund.svg" alt="Fourth program: So Long, and Thanks for All the Skills" title="Fourth program: So Long, and Thanks for All the Skills" width="30"></a>
 <a href="https://whoami.special.at/"><img src=".github/readme/signets/signet-whoami-rund.svg" alt="Register of Language Models" title="Register of Language Models" width="30"></a>
-<a href="https://github.com/andreas-steidl/cabaret-kundschaft"><img src=".github/readme/signets/signet-kundschaft-rund.svg" alt="The Clientele" title="The Clientele" width="30"></a>
+<a href="https://kundschaft.special.at/"><img src=".github/readme/signets/signet-kundschaft-rund.svg" alt="The Clientele" title="The Clientele" width="30"></a>
 <a href="https://falzbein.special.at/"><img src=".github/readme/signets/signet-falzbein-rund.svg" alt="Falzbein" title="Falzbein" width="30"></a>
 </p>
 <!-- signets:ende -->
@@ -35,13 +35,13 @@ Part of the cabaret stage [Zwischenraum](https://zwischenraum.special.at) and of
 
 <!-- haus:anfang -->
 <p align="center">
-<a href="https://github.com/andreas-steidl/cabaret-zwischenraum-stage"><img src=".github/readme/signets/signet-zwischenraum-rund.svg" alt="Zwischenraum cabaret stage" width="56"></a>
-<a href="https://github.com/andreas-steidl/cabaret-01-skill-suite-of-horrors"><img src=".github/readme/signets/signet-horrors-rund.svg" alt="First program: The Skill Suite of Horrors" width="56"></a>
-<a href="https://github.com/andreas-steidl/cabaret-02-dont-panic"><img src=".github/readme/signets/signet-dontpanic-rund.svg" alt="Second program: Don&#x27;t Panic" width="56"></a>
-<a href="https://github.com/andreas-steidl/cabaret-03-lost-in-translation"><img src=".github/readme/signets/signet-lostintranslation-rund.svg" alt="Third program: Lost in Translation" width="56"></a>
-<a href="https://github.com/andreas-steidl/cabaret-04-so-long-and-thanks-for-all-the-skills"><img src=".github/readme/signets/signet-solong-rund.svg" alt="Fourth program: So Long, and Thanks for All the Skills" width="56"></a>
-<img src=".github/readme/signets/signet-whoami-rund.svg" alt="Register of Language Models" width="64">
-<a href="https://github.com/andreas-steidl/cabaret-kundschaft"><img src=".github/readme/signets/signet-kundschaft-rund.svg" alt="The Clientele" width="56"></a>
+<a href="https://zwischenraum.special.at/"><img src=".github/readme/signets/signet-zwischenraum-rund.svg" alt="Zwischenraum cabaret stage" width="56"></a>
+<a href="https://horrors.special.at/"><img src=".github/readme/signets/signet-horrors-rund.svg" alt="First program: The Skill Suite of Horrors" width="56"></a>
+<a href="https://dontpanic.special.at/"><img src=".github/readme/signets/signet-dontpanic-rund.svg" alt="Second program: Don&#x27;t Panic" width="56"></a>
+<a href="https://lostintranslation.special.at/"><img src=".github/readme/signets/signet-lostintranslation-rund.svg" alt="Third program: Lost in Translation" width="56"></a>
+<a href="https://solong.special.at/"><img src=".github/readme/signets/signet-solong-rund.svg" alt="Fourth program: So Long, and Thanks for All the Skills" width="56"></a>
+<a href="https://whoami.special.at/"><img src=".github/readme/signets/signet-whoami-rund.svg" alt="Register of Language Models" width="56"></a>
+<a href="https://kundschaft.special.at/"><img src=".github/readme/signets/signet-kundschaft-rund.svg" alt="The Clientele" width="56"></a>
 <a href="https://falzbein.special.at/"><img src=".github/readme/signets/signet-falzbein-rund.svg" alt="Falzbein" width="56"></a>
 </p>
 <!-- haus:ende -->
@@ -50,4 +50,4 @@ Part of the cabaret stage [Zwischenraum](https://zwischenraum.special.at) and of
 
 MIT, see [LICENSE](LICENSE). By Andy, Richtscheit and Falzbein.
 
-<sub>AI notice: texts, skill and poster are AI-generated: conceived and written by Falzbein, a Claude model by Anthropic, with Andy. Claude is a trademark of Anthropic PBC; this is a private project not affiliated with Anthropic.</sub>
+<sub>Written by Falzbein, based on an idea by Andreas Steidl. AI notice: texts, skill and poster are AI-generated: conceived and written by Falzbein, a Claude model by Anthropic, with Andy. Claude is a trademark of Anthropic PBC; this is a private project not affiliated with Anthropic.</sub>
